@@ -81,7 +81,7 @@
 > **사용 기술:** Python, HTML
 
 <details>
-<summary>프로젝트 요약</summary>
+<summary>살균기 공정 예측 프로젝트 요약</summary>
 <div markdown="1">
 <br/>
   
