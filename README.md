@@ -29,6 +29,7 @@
 * 실제 환경에 적용하기 전에 모델 간의 특성을 확인하기 위해서 차량 이미지 데이터셋을 이용하여 선행 성능 검증을 함.
 * 가장 적합하다고 판단한 모델을 실제 환경에 적용하여 결과를 분석함.
 * 결과 : 시내 도로 같은 차량의 행동 변수가 많고 차간 거리가 가까운 도로에서는 적용이 힘들다 판단됨. 행동 변수가 적은 주차장 출입구나 차간 거리가 먼 고속도로와 같은 상황에는 일부 적용 가능하다고 판단함.
+* [발표자료](https://docs.google.com/presentation/d/1vHx04eHgGDH3_WjalozfwaPxphd7UC_n/edit?usp=sharing&ouid=105425414364534859439&rtpof=true&sd=true)
 <br>
 </div>
 </details>
@@ -55,13 +56,13 @@
 <summary>주조공정 불량품 검출 프로젝트 요약</summary>
 <div markdown="1">
 <br/>
-  
 * 데이터셋이 양품과 불량품으로 라벨링 되어 있음.
 * image classification을 위해 CNN 모델을 구현함.
 * CNN 모델로는 결함의 위치를 확인 불가능하여 기존의 데이터셋에서 추가로 라벨링 한 후 object detection을 YOLO 모델로 구현함.
 * 결함이 주로 일어나는 위치를 시각화하고 결과를 분석함.
 * 결과 : 테스트 데이터셋에서 accuracy가 0.978인 CNN 모델을 구현하였다. CNN 모델이 불량이라 판단한 이미지들에 대하여 결함의 위치
 와 종류를 인식하는 object detection을 YOLO 모델로 구현함.
+* [발표자료](https://github.com/novamp2016/Defective-detection-of-casting-process#readme)
   
 </div>
 </details>
