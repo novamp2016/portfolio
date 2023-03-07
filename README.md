@@ -33,7 +33,7 @@
 <br>
 </div>
 </details>
-<br/>
+<br/><br/>
 
 ![image.jpg1](https://github.com/novamp2016/portfolio/blob/main/images/casting.png) |![image.jpg2](https://github.com/novamp2016/portfolio/blob/main/images/casting2.png)
 --- | --- | 
@@ -66,7 +66,7 @@
   
 </div>
 </details>
-<br/>
+<br/><br/>
 
 > **프로젝트:** [살균기 공정 예측 프로젝트](https://github.com/novamp2016/Pasteurizer-process-prediction)
 >
@@ -92,6 +92,7 @@
   
 </div>
 </details>
+<br/>
 
 ## **🛠 기술 및 도구**
 
