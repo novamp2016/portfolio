@@ -32,6 +32,7 @@
 <br>
 </div>
 </details>
+<br/>
 
 <p align="center"><img width="44%" alt="nextlab" src="https://github.com/novamp2016/portfolio/blob/main/images/casting.png"/></p>
 
@@ -48,6 +49,8 @@
 > **사용 기술:** Python 
 
 <details>
+<br/>
+  
 <summary>주조공정 불량품 검출 프로젝트 요약</summary>
 <div markdown="1">
 <br/>
@@ -61,6 +64,7 @@
   
 </div>
 </details>
+<br/>
 
 > **프로젝트:** [살균기 공정 예측 프로젝트](https://github.com/novamp2016/Pasteurizer-process-prediction)
 >
