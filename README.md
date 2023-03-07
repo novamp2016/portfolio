@@ -5,6 +5,8 @@
 
 ## **📝 프로젝트 개요**
 
+<img width="100%" alt="nextlab" src="https://github.com/novamp2016/portfolio/blob/main/images/nextlab.png"/>
+
 > **프로젝트:** [Nextlab 프로젝트](https://github.com/novamp2016/Nextlab-project)
 >
 > **기획 및 제작:** 조재민
@@ -23,6 +25,8 @@
 
 </div>
 </details>
+
+<img width="100%" alt="nextlab" src="https://github.com/novamp2016/portfolio/blob/main/images/casting.png"/>
 
 > **프로젝트:** [주조공정 불량품 검출 프로젝트](https://github.com/novamp2016/Defective-detection-of-casting-process)
 >
