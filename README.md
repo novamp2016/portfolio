@@ -18,18 +18,11 @@
 > **사용 기술:** Python
 
 <details>
-<summary>접기/펼치기 버튼</summary>
+<summary>프로젝트 요약</summary>
 <div markdown="1">
-
-|제목|내용|
-|--|--|
-|1|1|
-|2|10|
 
 </div>
 </details>
-
-
 
 > **프로젝트:** [주조공정 불량품 검출 프로젝트](https://github.com/novamp2016/Defective-detection-of-casting-process)
 >
@@ -43,6 +36,12 @@
 >
 > **사용 기술:** Python 
 
+<details>
+<summary>프로젝트 요약</summary>
+<div markdown="1">
+
+</div>
+</details>
 
 > **프로젝트:** [살균기 공정 예측 프로젝트](https://github.com/novamp2016/Pasteurizer-process-prediction)
 >
@@ -56,6 +55,12 @@
 >
 > **사용 기술:** Python, HTML
 
+<details>
+<summary>프로젝트 요약</summary>
+<div markdown="1">
+
+</div>
+</details>
 
 ## **🛠 기술 및 도구**
 
