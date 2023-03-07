@@ -36,7 +36,7 @@
 >
 > **제작 기간:** 2022.10 - 2022.11
 > 
-> **주요 기능:** lassification
+> **주요 기능:** classification
 >
 > **사용 기술:** Python, HTML
 
