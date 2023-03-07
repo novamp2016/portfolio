@@ -20,8 +20,14 @@
 > **사용 기술:** Python
 
 <details>
-<summary>프로젝트 요약</summary>
+<summary>Nextlab 프로젝트 요약</summary>
 <div markdown="1">
+
+* YOLO 모델을 이용하여 차량 추적을 구현함.
+* ReID 모델을 적용하기 위해 포착된 차량의 정보를 다른 영상의 차량 추적에서 이용할 수 있게 함.
+* 실제 환경에 적용하기 전에 모델 간의 특성을 확인하기 위해서 차량 이미지 데이터셋을 이용하여 선행 성능 검증을 함.
+* 가장 적합하다고 판단한 모델을 실제 환경에 적용하여 결과를 분석함.
+* 결과 : 시내 도로 같은 차량의 행동 변수가 많고 차간 거리가 가까운 도로에서는 적용이 힘들다 판단됨. 행동 변수가 적은 주차장 출입구나 차간 거리가 먼 고속도로와 같은 상황에는 일부 적용 가능하다고 판단함.
 
 </div>
 </details>
@@ -41,9 +47,16 @@
 > **사용 기술:** Python 
 
 <details>
-<summary>프로젝트 요약</summary>
+<summary>주조공정 불량품 검출 프로젝트 요약</summary>
 <div markdown="1">
 
+* 데이터셋이 양품과 불량품으로 라벨링 되어 있음.
+* image classification을 위해 CNN 모델을 구현함.
+* CNN 모델로는 결함의 위치를 확인 불가능하여 기존의 데이터셋에서 추가로 라벨링 한 후 object detection을 YOLO 모델로 구현함.
+* 결함이 주로 일어나는 위치를 시각화하고 결과를 분석함.
+* 결과 : 테스트 데이터셋에서 accuracy가 0.978인 CNN 모델을 구현하였다. CNN 모델이 불량이라 판단한 이미지들에 대하여 결함의 위치
+와 종류를 인식하는 object detection을 YOLO 모델로 구현함.
+  
 </div>
 </details>
 
@@ -63,6 +76,11 @@
 <summary>프로젝트 요약</summary>
 <div markdown="1">
 
+* 데이터셋이 온도와 작동 상태에 따른 불량 여부가 라벨링 되어 있음.
+* Scikit-learn의 XGBClassifier을 이용하여 머신러닝 분류 모델을 구현하고 RandomizedSearchCV로 하이퍼파라미터 튜닝을 진행함.
+* 입력되는 값에 따른 예측값을 확인할 수 있게 flask를 이용하여 웹 페이지로 구현함.
+* 결과 : 테스트 데이터셋에서 weighted avg 기준 precision은 0.89, f1-score는 0.77인 머신러닝 모델을 구현함. 입력되는 온도와 작동 상태에 따른 불량 예측을 웹 페이지에서 확인할 수 있게 구현함
+  
 </div>
 </details>
 
