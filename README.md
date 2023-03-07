@@ -1,17 +1,8 @@
 # Portfolio
 
-## **📗 목차**
-
-<b>
-
-- 📝 [개요](#-포트폴리오-개요)
-- 🛠 [기술 및 도구](#-기술-및-도구)
-
-</b>
-
 ## **📝 포트폴리오 개요**
 
-> **프로젝트:** Nextlab 프로젝트
+> **프로젝트:** [Nextlab 프로젝트](https://github.com/novamp2016/Nextlab-project)
 >
 > **기획 및 제작:** 조재민
 >
@@ -23,7 +14,7 @@
 >
 > **사용 기술:** Python
 
-> **프로젝트:** 주조공정 불량품 검출 프로젝트
+> **프로젝트:** [주조공정 불량품 검출 프로젝트](https://github.com/novamp2016/Defective-detection-of-casting-process)
 >
 > **기획 및 제작:** 조재민
 >
@@ -35,7 +26,7 @@
 >
 > **사용 기술:** Python 
 
-> **프로젝트:** 살균기 공정 예측 프로젝트
+> **프로젝트:** [살균기 공정 예측 프로젝트](https://github.com/novamp2016/Pasteurizer-process-prediction)
 >
 > **기획 및 제작:** 조재민
 >
