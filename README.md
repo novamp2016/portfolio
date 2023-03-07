@@ -55,7 +55,6 @@
   
 <summary>주조공정 불량품 검출 프로젝트 요약</summary>
 <div markdown="1">
-<br/>
 
 * 데이터셋이 양품과 불량품으로 라벨링 되어 있음.
 * image classification을 위해 CNN 모델을 구현함.
