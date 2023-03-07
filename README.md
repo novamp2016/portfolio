@@ -17,6 +17,19 @@
 >
 > **사용 기술:** Python
 
+<details>
+<summary>접기/펼치기 버튼</summary>
+<div markdown="1">
+
+|제목|내용|
+|--|--|
+|1|1|
+|2|10|
+
+</div>
+</details>
+
+
 
 > **프로젝트:** [주조공정 불량품 검출 프로젝트](https://github.com/novamp2016/Defective-detection-of-casting-process)
 >
