@@ -23,6 +23,7 @@
 <summary>Nextlab 프로젝트 요약</summary>
 <div markdown="1">
   
+  
 * YOLO 모델을 이용하여 차량 추적을 구현함.
 * ReID 모델을 적용하기 위해 포착된 차량의 정보를 다른 영상의 차량 추적에서 이용할 수 있게 함.
 * 실제 환경에 적용하기 전에 모델 간의 특성을 확인하기 위해서 차량 이미지 데이터셋을 이용하여 선행 성능 검증을 함.
@@ -50,6 +51,7 @@
 <summary>주조공정 불량품 검출 프로젝트 요약</summary>
 <div markdown="1">
   
+  
 * 데이터셋이 양품과 불량품으로 라벨링 되어 있음.
 * image classification을 위해 CNN 모델을 구현함.
 * CNN 모델로는 결함의 위치를 확인 불가능하여 기존의 데이터셋에서 추가로 라벨링 한 후 object detection을 YOLO 모델로 구현함.
@@ -75,6 +77,7 @@
 <details>
 <summary>프로젝트 요약</summary>
 <div markdown="1">
+  
   
 * 데이터셋이 온도와 작동 상태에 따른 불량 여부가 라벨링 되어 있음.
 * Scikit-learn의 XGBClassifier을 이용하여 머신러닝 분류 모델을 구현하고 RandomizedSearchCV로 하이퍼파라미터 튜닝을 진행함.
