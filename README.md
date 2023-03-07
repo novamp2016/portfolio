@@ -22,7 +22,7 @@
 <details>
 <summary>Nextlab 프로젝트 요약</summary>
 <div markdown="1">
-  
+<br/>
   
 * YOLO 모델을 이용하여 차량 추적을 구현함.
 * ReID 모델을 적용하기 위해 포착된 차량의 정보를 다른 영상의 차량 추적에서 이용할 수 있게 함.
@@ -33,7 +33,7 @@
 </div>
 </details>
 
-<p align="center"><img width="50%" alt="nextlab" src="https://github.com/novamp2016/portfolio/blob/main/images/casting.png"/></p>
+<p align="center"><img width="44%" alt="nextlab" src="https://github.com/novamp2016/portfolio/blob/main/images/casting.png"/></p>
 
 > **프로젝트:** [주조공정 불량품 검출 프로젝트](https://github.com/novamp2016/Defective-detection-of-casting-process)
 >
