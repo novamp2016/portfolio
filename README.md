@@ -26,7 +26,7 @@
 </div>
 </details>
 
-<p align="center"><img width="33%" alt="nextlab" src="https://github.com/novamp2016/portfolio/blob/main/images/casting.png"/></p>
+<p align="center"><img width="50%" alt="nextlab" src="https://github.com/novamp2016/portfolio/blob/main/images/casting.png"/></p>
 
 > **프로젝트:** [주조공정 불량품 검출 프로젝트](https://github.com/novamp2016/Defective-detection-of-casting-process)
 >
