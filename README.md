@@ -68,6 +68,8 @@
 </details>
 <br/><br/>
 
+<img width="100%" alt="nextlab" src="https://github.com/novamp2016/portfolio/blob/main/images/past.png"/>
+
 > **프로젝트:** [살균기 공정 예측 프로젝트](https://github.com/novamp2016/Pasteurizer-process-prediction)
 >
 > **기획 및 제작:** 조재민
